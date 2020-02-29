@@ -35,7 +35,7 @@ require (
 	github.com/docker/docker v1.4.2-0.20180327123150-ed7b6428c133
 	github.com/docker/go-connections v0.3.0 // indirect
 	github.com/docker/go-units v0.3.3 // indirect
-	github.com/docker/libnetwork v0.8.0-dev.2.0.20181012153825-d7b61745d166
+	github.com/docker/libnetwork v0.8.0-dev.2.0.20200228041244-08a14a83c611
 	github.com/eclipse/paho.mqtt.golang v1.2.0
 	github.com/ericchiang/k8s v1.2.0
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
@@ -111,8 +111,7 @@ require (
 	github.com/tbrandon/mbserver v0.0.0-20170611213546-993e1772cc62
 	github.com/tedsuo/ifrit v0.0.0-20191009134036-9a97d0632f00 // indirect
 	github.com/tidwall/gjson v1.3.0
-	github.com/vishvananda/netlink v0.0.0-20171020171820-b2de5d10e38e // indirect
-	github.com/vishvananda/netns v0.0.0-20180720170159-13995c7128cc // indirect
+	github.com/vishvananda/netlink v1.1.0 // indirect
 	github.com/vjeantet/grok v1.0.0
 	github.com/vmware/govmomi v0.19.0
 	github.com/wavefronthq/wavefront-sdk-go v0.9.2
