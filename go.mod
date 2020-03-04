@@ -111,7 +111,7 @@ require (
 	github.com/tbrandon/mbserver v0.0.0-20170611213546-993e1772cc62
 	github.com/tedsuo/ifrit v0.0.0-20191009134036-9a97d0632f00 // indirect
 	github.com/tidwall/gjson v1.3.0
-	github.com/vishvananda/netlink v1.1.0 // indirect
+	github.com/vishvananda/netlink v1.1.0
 	github.com/vjeantet/grok v1.0.0
 	github.com/vmware/govmomi v0.19.0
 	github.com/wavefronthq/wavefront-sdk-go v0.9.2
